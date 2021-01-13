@@ -1,6 +1,6 @@
 # React Electron
 Easy-to-understand-and-use boilerplate code for creating an Electron desktop app simply using Reactjs.
-This project was bootstrapped with [https://github.com/facebook/create-react-app](Create React App), [https://www.electronjs.org/](Electron), and [https://github.com/electron-userland/electron-builder](electron-builder).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [Electron](https://electronjs.org/), and [electron-builder](https://github.com/electron-userland/electron-builder).
 
 ## Used following command
 
